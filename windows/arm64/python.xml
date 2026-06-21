@@ -1,0 +1,4 @@
+<python>
+    <prop name="arch" value="aarch64" />
+    <prop name="os" value="pc-windows-msvc" />
+</python>
