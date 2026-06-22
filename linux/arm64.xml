@@ -1,0 +1,2 @@
+<import file="template/linux/arm64/python.xml" />
+<import file="template/linux/arm64/pip.xml" />

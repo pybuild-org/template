@@ -1,0 +1,2 @@
+<import file="template/macos/amd64/python.xml" />
+<import file="template/macos/amd64/pip.xml" />
