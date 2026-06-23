@@ -1,0 +1,6 @@
+<builder>
+    <prop name="source" value="src" />
+    <prop name="output" value="dist" />
+    <prop name="release" value="20260610" />
+    <prop name="version" value="3.13.14" />
+</builder>
