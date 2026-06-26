@@ -1,8 +1,0 @@
-<pip>
-    <prop name="download" value="vnpy" />
-    <prop name="download" value="vnpy_ctp" />
-    <prop name="download" value="vnpy_ctastrategy" />
-    <prop name="download" value="vnpy_ctabacktester" />
-    <prop name="download" value="vnpy_sqlite" />
-    <prop name="download" value="pillow" />
-</pip>
