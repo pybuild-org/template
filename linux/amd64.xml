@@ -1,0 +1,4 @@
+<xml>
+    <use src="{template}/linux/amd64/python" />
+    <use src="{template}/linux/amd64/pip" />
+</xml>

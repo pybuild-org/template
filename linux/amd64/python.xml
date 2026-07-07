@@ -1,0 +1,4 @@
+<config name="python">
+    <prop name="arch" value="x86_64" />
+    <prop name="os" value="unknown-linux-gnu" />
+</config>

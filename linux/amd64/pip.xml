@@ -1,0 +1,3 @@
+<config name="pip">
+    <prop name="platform" value="manylinux_2_17_x86_64" />
+</config>
