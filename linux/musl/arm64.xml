@@ -1,0 +1,4 @@
+<xml>
+    <use src="{template}/linux/musl/arm64/python" />
+    <use src="{template}/linux/musl/arm64/pip" />
+</xml>

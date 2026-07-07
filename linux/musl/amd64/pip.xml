@@ -1,0 +1,3 @@
+<config name="pip">
+    <prop name="platform" value="musllinux_1_1_x86_64" />
+</config>
