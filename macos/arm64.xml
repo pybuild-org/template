@@ -1,0 +1,4 @@
+<xml>
+    <use src="{template}/macos/arm64/python" />
+    <use src="{template}/macos/arm64/pip" />
+</xml>
