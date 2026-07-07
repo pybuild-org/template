@@ -33,3 +33,5 @@ arm64 ALL
 ```xml
 <use src="{template}/linux/arm64" />
 ```
+
+[musl](./musl)
