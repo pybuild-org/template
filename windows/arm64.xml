@@ -1,0 +1,4 @@
+<xml>
+    <use src="{template}/windows/arm64/python" />
+    <use src="{template}/windows/arm64/pip" />
+</xml>
