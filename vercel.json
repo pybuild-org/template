@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "https://raw.githubusercontent.com/pybuild-org/template/refs/heads/main/$1"
+        }
+    ]
+}
